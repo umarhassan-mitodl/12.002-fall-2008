@@ -29,6 +29,7 @@
     "website": "12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008"
   },
   "course_title": "Physics and Chemistry of the Terrestrial Planets",
+  "hide_download": true,
   "course_description": "This course introduces the structure, composition, and physical processes governing the terrestrial planets, including their formation and basic orbital properties. Topics include plate tectonics, earthquakes, seismic waves, rheology, impact cratering, gravity and magnetic fields, heat flux, thermal structure, mantle convection, deep interiors, planetary magnetism, and core dynamics. Suitable for majors and non-majors seeking general background in geophysics and planetary structure.\n",
   "department_numbers": [
     "12"
@@ -39,6 +40,7 @@
     "content": "be36df10-d758-3e69-c8f6-49482d5161b5",
     "website": "12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

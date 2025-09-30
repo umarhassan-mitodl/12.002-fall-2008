@@ -5,6 +5,8 @@ description: Solutions to a problem set on gravity, compensated topography, and 
 file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/346da91c9b6cfaaaae55fc5d30190a0c_MIT12_002f08_ps09_solutions.pdf
 file_size: 525630
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

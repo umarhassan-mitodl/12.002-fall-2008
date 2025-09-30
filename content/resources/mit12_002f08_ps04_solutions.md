@@ -5,6 +5,8 @@ description: Solutions to a problem set on conduction and subsidence, the age of
 file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/3da7029fb7ad178852cf520ba6bc0c8f_MIT12_002f08_ps04_solutions.pdf
 file_size: 251988
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

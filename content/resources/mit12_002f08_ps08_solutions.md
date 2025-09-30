@@ -4,6 +4,8 @@ description: Solutions to a problem set on isostasy.
 file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/a4428a140d46e95eb43ff17c9e1d587e_MIT12_002f08_ps08_solutions.pdf
 file_size: 399527
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

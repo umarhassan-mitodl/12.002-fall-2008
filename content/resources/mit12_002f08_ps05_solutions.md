@@ -4,6 +4,8 @@ description: Solutions to a problem set on convection.
 file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/9a79313feb8ebc24cabd67b645a3f2b2_MIT12_002f08_ps05_solutions.pdf
 file_size: 370903
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

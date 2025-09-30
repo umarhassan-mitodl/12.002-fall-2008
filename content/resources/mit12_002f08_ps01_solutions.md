@@ -5,6 +5,8 @@ description: Solutions to a problem set on geochronology and the age of the Sola
 file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/0e91723e42a95b6457c841937139f723_MIT12_002f08_ps01_solutions.pdf
 file_size: 155664
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

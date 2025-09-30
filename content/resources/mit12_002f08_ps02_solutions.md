@@ -6,6 +6,8 @@ description: Solutions to a problem set on moment of inertia, mass and core size
 file: /courses/12-002-physics-and-chemistry-of-the-terrestrial-planets-fall-2008/4108bcd0fc0e5f0d4b6c203be4ceb5b3_MIT12_002f08_ps02_solutions.pdf
 file_size: 1058369
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
